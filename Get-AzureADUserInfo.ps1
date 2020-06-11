@@ -1,0 +1,1 @@
+Get-AzureADUser -ObjectId "pavlica@oikt.czu.cz"
