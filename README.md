@@ -2,4 +2,4 @@
 
 Learning how to work with GitHub
 
-Using Visual Studio Code integration :-)
+Using Visual Studio Code integration
