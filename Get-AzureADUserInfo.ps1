@@ -1,1 +1,1 @@
-Get-AzureADUser -ObjectId "pavlica@oikt.czu.cz"
+Get-AzureADUser -ObjectId "pavlica@oikt.czu.cz" | Format-List *
